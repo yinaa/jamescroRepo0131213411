@@ -1,14 +1,3 @@
 - name: Excel REST
-  href: concepts\use-microsoft-graph-to-work-with-excel.md
-  displayName: Use Microsoft Graph to work with Excel
-  items:
-  - name: Manage sessions in Excel with Microsoft Graph
-    href: concepts\manage-sessions-in-excel-with-microsoft-graph.md
-  - name: Display a chart image in Excel with Microsoft Graph
-    href: concepts\display-a-chart-image-in-excel-with-microsoft-graph.md
-  - name: Use workbook functions in Excel with Microsoft Graph
-    href: concepts\use-functions-in-excel-with-microsoft-graph.md
-  - name: Update a range format in Excel with Microsoft Graph
-    href: concepts\update-range-format-in-excel-with-microsoft-graph.md
-  - name: Write data to an Excel workbook with Microsoft Graph
-    href: concepts\write-to-excel-workbook-with-microsoft-graph.md
+  href: index.md
+
