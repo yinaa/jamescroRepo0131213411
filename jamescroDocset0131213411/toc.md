@@ -1,2 +1,2 @@
 # [Use Microsoft Graph to work with Excel](concepts\use-microsoft-graph-to-work-with-excel.md)
-##[Manage sessions in Excel with Microsoft Graph](concepts\manage-sessions-in-excel-with-microsoft-graph.md)
+## [Manage sessions in Excel with Microsoft Graph](concepts\manage-sessions-in-excel-with-microsoft-graph.md)
