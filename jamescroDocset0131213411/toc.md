@@ -58,6 +58,7 @@
 ## [Known issues](concepts/known_issues.md)
 ## [Changelog](concepts/changelog.md)
 
+# [v1.0 API reference](concepts/v1-overview.md)
 # [Users](api-reference/v1.0/resources/users.md)
 ## [User](api-reference/v1.0/resources/user.md)
 ### [Create user](api-reference/v1.0/api/user_post_users.md)
