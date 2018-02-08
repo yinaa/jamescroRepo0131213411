@@ -24,7 +24,7 @@
 # [Mail (Outlook)](concepts\outlook-mail-concept-overview.md)
 ## [Create and send messages](concepts\outlook-create-send-messages.md)
 ## [Organize messages](concepts\outlook-organize-messages.md)
-## [Share message folders](concepts\outlook-share-messages-folders.md)## 
+## [Share message folders](concepts\outlook-share-messages-folders.md)
 # [Workbooks and charts (Excel)](concepts\use-microsoft-graph-to-work-with-excel.md)
 ## [Manage sessions](concepts\manage-sessions-in-excel-with-microsoft-graph.md)
 ## [Display a chart image](concepts\display-a-chart-image-in-excel-with-microsoft-graph.md)
