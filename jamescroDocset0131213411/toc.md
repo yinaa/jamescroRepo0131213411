@@ -18,19 +18,19 @@
 ## [Xamarin](concepts/xamarin.md)
 
 # Concepts
-## Deployment
-### [National cloud deployments](concepts/deployments.md)
-### [Hybrid deployments (preview)](concepts/hybrid_rest_support.md)
-## [Mail (Outlook)](concepts\outlook-mail-concept-overview.md)
-### [Create and send messages](concepts\outlook-create-send-messages.md)
-### [Organize messages](concepts\outlook-organize-messages.md)
-### [Share message folders](concepts\outlook-share-messages-folders.md)## 
-## [Workbooks and charts (Excel)](concepts\use-microsoft-graph-to-work-with-excel.md)
-### [Manage sessions](concepts\manage-sessions-in-excel-with-microsoft-graph.md)
-### [Display a chart image](concepts\display-a-chart-image-in-excel-with-microsoft-graph.md)
-### [Use workbook functions](concepts\use-functions-in-excel-with-microsoft-graph.md)
-### [Update a range format](concepts\update-range-format-in-excel-with-microsoft-graph.md)
-### [Write data to an Excel workbook with Microsoft Graph](concepts\write-to-excel-workbook-with-microsoft-graph.md)
+# Deployment
+## [National cloud deployments](concepts/deployments.md)
+## [Hybrid deployments (preview)](concepts/hybrid_rest_support.md)
+# [Mail (Outlook)](concepts\outlook-mail-concept-overview.md)
+## [Create and send messages](concepts\outlook-create-send-messages.md)
+## [Organize messages](concepts\outlook-organize-messages.md)
+## [Share message folders](concepts\outlook-share-messages-folders.md)## 
+# [Workbooks and charts (Excel)](concepts\use-microsoft-graph-to-work-with-excel.md)
+## [Manage sessions](concepts\manage-sessions-in-excel-with-microsoft-graph.md)
+## [Display a chart image](concepts\display-a-chart-image-in-excel-with-microsoft-graph.md)
+## [Use workbook functions](concepts\use-functions-in-excel-with-microsoft-graph.md)
+## [Update a range format](concepts\update-range-format-in-excel-with-microsoft-graph.md)
+## [Write data to an Excel workbook with Microsoft Graph](concepts\write-to-excel-workbook-with-microsoft-graph.md)
 
 # Develop
 ## [Get auth tokens](concepts/auth_overview.md)
@@ -686,7 +686,7 @@
 ### [Create subscription](api-reference/v1.0/api/subscription_post_subscriptions.md)
 ### [Update subscription](api-reference/v1.0/api/subscription_update.md)
 ### [Delete subscription](api-reference/v1.0/api/subscription_delete.md)
-# [horizontalline](/.md)
+
 # [Beta reference](api-reference/beta/beta-overview.md)
 ## [Users](api-reference/beta/resources/users.md)
 ### [User](api-reference/beta/resources/user.md)
