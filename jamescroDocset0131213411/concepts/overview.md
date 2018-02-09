@@ -26,11 +26,18 @@ You can do all this and more with the Microsoft Graph API.
 
 >**Note:** When you use the Microsoft Graph API, you agree to the [Microsoft Graph Terms of Use](../misc/terms-of-use.md) and the [Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=521839).
 
+## Resources and services
+
+<!-- That link to the MS API guidelines - should that point to the vnext branch, or master branch? My search result is the former.
+-->
+The vast resources in Microcosft Graph are backed by robust services. Some of these services make their debut in Microsoft Graph, others . They are all now streamlined in design and follow the [Microsoft REST API guidelines](https://github.com/Microsoft/api-guidelines), accessible by the single Microsoft Graph REST endpoint `https://graph.microsoft.com`. Notable services are listed below.
+
 ## Next steps
 
 - Check out some [Featured scenarios](../concepts/featured_scenarios.md).
 - Try a sample request in the [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer).
 - Use the [quick start](https://developer.microsoft.com/graph/quick-start) to set up a ready-to-run sample app.
+- Look under **Concepts** in the table of contents to learn more about the capabilities of some of the services, that you might be able to leverage in your scenarios.  
 - Find out how to [get an auth token](../concepts/auth_overview.md) in your app.
 - Start [using the API](../concepts/use_the_api.md).
 
