@@ -37,7 +37,7 @@ The vast resources in Microcosft Graph are backed by robust services. Some of th
 - Check out some [Featured scenarios](../concepts/featured_scenarios.md).
 - Try a sample request in the [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer).
 - Use the [quick start](https://developer.microsoft.com/graph/quick-start) to set up a ready-to-run sample app.
-- Look under **Concepts** in the table of contents to learn more about the capabilities of some of the services, that you might be able to leverage in your scenarios.  
+- Look under **Concepts** in the table of contents to learn more about the capabilities of some of the services that you might be able to leverage in your scenarios.  
 - Find out how to [get an auth token](../concepts/auth_overview.md) in your app.
 - Start [using the API](../concepts/use_the_api.md).
 
