@@ -55,12 +55,12 @@ When a message is being composed, in most cases, Outlook sets the **from** and *
 - The **from** property can be changed if the Exchange administrator has assigned **sendAs** rights of the mailbox to some other users. The administrator can do this by selecting **Mailbox Permissions** of the mailbox owner in the Azure portal, or by using the Exchange Admin Center or a Windows PowerShell Add-ADPermission cmdlet. Then, you can programmatically set the **from** property to one of these users who have **sendAs** rights for that mailbox.
 - The **sender** property can be changed if the mailbox owner has delegated one or more users to be able to send messages from that mailbox. The mailbox owner can delegate in Outlook. When a delegate sends a message on behalf of the mailbox owner, Outlook sets the **sender** property to the delegate’s account, and the **from** property remains as the mailbox owner. Programmatically, you can set the **sender** property to a user who has got delegate permissions for that mailbox.
 
-### Using MailTips to check recipient status and save time (preview)
+## Using MailTips to check recipient status and save time (preview)
 
 Use [MailTips](../api-reference/beta/resources/mailtips.md) to make smart decisions before sending an email. 
 MailTips can tell you information such as the recipient's mailbox is restricted to specific senders, or approval is required for emailing the recipient.
 
-### Integrating with '@' social gesture (preview)
+## Integrating with '@' social gesture (preview)
 
 @-mentions are notifications to alert users if they are mentioned in messages. The [mention](../api-reference/beta/resources/mention.md) resource enables apps to set and get the common online social gesture, the '@' prefix, in emails.
 You can:
@@ -70,7 +70,7 @@ You can:
 - [Get all the @-mention is a message](../api-reference/beta/api/message_get.md#request-2) 
 
 
-### Other shared capabilities
+## Other shared capabilities
 
 Take advantage of the following common capabilities that are shared among Microsoft Graph entities:
 
