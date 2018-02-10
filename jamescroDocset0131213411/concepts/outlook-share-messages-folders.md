@@ -7,10 +7,10 @@ These topics also have similar section - list events, get event, get calendar, l
 Outlook lets customers share folders with one another and provide "read", "create", or "modify" access to individual folders or the entire mailbox. This is also 
 known as "delegation" in Outlook.
 
-Programmatically, Microsoft Graph supports reading messages in mail folders that have been shared by other users. 
+Programmatically, Microsoft Graph supports getting messages in mail folders that have been shared by other users, as well as getting the shared folders themselves.
 
 As an example, Garth has shared with John read access to Garth's Inbox. If John has signed in your app and provided delegated permissions (Mail.Read.Shared or
-Mail.ReadWrite.Shared), your app will be able to access Garth's mail as described below.
+Mail.ReadWrite.Shared), your app will be able to access Garth's mail and Garth's Inbox as described below.
 
 ## Get a message in the shared folder
 
