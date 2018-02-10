@@ -20,7 +20,7 @@ connect to a wealth of other Outlook and non-Outlook relationships, resources, a
 
 <!-- Change API links to v1 once they GA in February
 -->
-Customers like how Outlook help them stay organized. Microsoft Graph brings these features to app developers and build workflows that optimize on discovery and improve efficiency and productivity: 
+Customers like how Outlook help them stay organized. Microsoft Graph brings these features to app developers, enabling them to build customer workflows that optimize on discovery and improve efficiency and productivity: 
 
 - Customers organize their messages in different ways - some leave all messages in the Inbox and simply search for them, others file their messsages in folders. They like Outlook's flexible and intuitive approach that supports both flat and folder-based organizations. Apps can conveniently [filter, search, or sort](query_parameters.md) messages in specific folders or the user's entire mailbox.
 
