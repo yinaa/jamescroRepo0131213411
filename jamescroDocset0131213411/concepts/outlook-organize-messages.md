@@ -34,7 +34,7 @@ The **childFolderCount** property represents the number of immediate child folde
 
 Be aware that Outlook mail folders can contain messages and non-message items such as events and contacts. In general, Outlook folders can contain heterogeneous items.
 
-## Use rules to automate copying or moving messages
+## Using rules to automate copying or moving messages
 
 <!-- Change links for rules API to v1 once it GAs in Feb. -->
 
@@ -42,7 +42,7 @@ Outlook lets customers set up rules to automate specific actions on incoming mes
 Inbox as a [messageRule](../api-reference/beta/resources/messagerule.md) to copy or move a message to a specific folder upon certain conditions. 
 Conditions are [messageRulePredicates](../api-reference/beta/resources/messagerulepredicates.md). They can include the message subject or body containing certain text,the message sent from certain email addresses, or the message marked important, and so on. 
 
-## See only the messages you care for in the Focused Inbox 
+## Directing only the messages you care for to the Focused Inbox 
 
 Focused Inbox lets customers train Outlook to show only the incoming messages from senders you care for in the **Focused** tab, and the rest in the **Other** tab.
 Initially, Outlook's classification system organizes Inbox messages in a default way. Over time, you can correct and train the system through the user interface or 
