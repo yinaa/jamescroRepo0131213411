@@ -349,11 +349,11 @@
 #### [Get permission](api-reference/v1.0/api/permission_get.md)
 #### [Update permission](api-reference/v1.0/api/permission_update.md)
 #### [Delete permission](api-reference/v1.0/api/permission_delete.md)
-## [OneNote](concepts/integrate_with_onenote.md)
-### [Input and Output HTML](concepts/onenote_input_output_html.md)
-### [Open the OneNote client](concepts/open_onenote_client.md)
-### [Error codes](concepts/onenote_error_codes.md)
-### [Best practices](concepts/onenote_best_practices.md)
+## OneNote
+### Input and Output HTML
+### Open the OneNote client
+### Error codes
+### Best practices
 ### [Notes](api-reference/v1.0/resources/onenote.md)
 #### [List notebooks](api-reference/v1.0/api/onenote_list_notebooks.md)
 #### [Create notebook](api-reference/v1.0/api/onenote_post_notebooks.md)
@@ -3553,11 +3553,11 @@
 #### [Get permission](api-reference/beta/api/permission_get.md)
 #### [Update permission](api-reference/beta/api/permission_update.md)
 #### [Delete permission](api-reference/beta/api/permission_delete.md)
-## [OneNote](concepts/integrate_with_onenote.md)
-### [Input and Output HTML](concepts/onenote_input_output_html.md)
-### [Open the OneNote client](concepts/open_onenote_client.md)
-### [Error codes](concepts/onenote_error_codes.md)
-### [Best practices](concepts/onenote_best_practices.md)
+## OneNote
+### Input and Output HTML
+### Open the OneNote client
+### Error codes
+### Best practices
 ### [Notes](api-reference/beta/resources/onenote.md)
 #### [List notebooks](api-reference/beta/api/onenote_list_notebooks.md)
 #### [Create notebook](api-reference/beta/api/onenote_post_notebooks.md)
