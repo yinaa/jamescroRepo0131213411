@@ -36,7 +36,7 @@
 ## [Display a chart image](concepts\display-a-chart-image-in-excel-with-microsoft-graph.md)
 ## [Use workbook functions](concepts\use-functions-in-excel-with-microsoft-graph.md)
 ## [Update a range format](concepts\update-range-format-in-excel-with-microsoft-graph.md)
-## [Write data to an Excel workbook with Microsoft Graph](concepts\write-to-excel-workbook-with-microsoft-graph.md)
+## [Write data to a workbook](concepts\write-to-excel-workbook-with-microsoft-graph.md)
 
 # Develop
 ## [Get auth tokens](concepts/auth_overview.md)
