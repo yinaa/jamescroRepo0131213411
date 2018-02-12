@@ -28,9 +28,8 @@ You can do all this and more with the Microsoft Graph API.
 
 ## Resources and services
 
-<!-- That link to the MS API guidelines - should that point to the vnext branch, or master branch? My search result is the former.
--->
-The vast resources in Microcosft Graph are backed by robust services. Some of these services make their debut in Microsoft Graph, others . They are all now streamlined in design and follow the [Microsoft REST API guidelines](https://github.com/Microsoft/api-guidelines), accessible by the single Microsoft Graph REST endpoint `https://graph.microsoft.com`. Notable services are listed below.
+The vast resources in Microcosft Graph are backed by robust services. Find more about 
+[Major services and features in Microsoft Graph](../concepts/overview-major-services.md).
 
 ## Next steps
 
