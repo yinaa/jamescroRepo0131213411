@@ -1,5 +1,5 @@
 # [Overview](concepts/overview.md)
-## [Major services](overview-major-services.md)
+## [Major services](concepts/overview-major-services.md)
 # [Featured scenarios](concepts/featured_scenarios.md)
 ## [Find meeting times](concepts/findmeetingtimes_example.md)
 ## [Get information about relevant people](concepts/people_example.md)
